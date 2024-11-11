@@ -1,9 +1,10 @@
 # Automatic-Answer-Checker
 This is my senior project, I was assigned to make an automatic answer checker attach with webcam camera to code image processing as a software feature and connect to the feeder with Arduino as a hardware. 
+
 Members:
-	1.  Worraphong Chenvigyakit 
-	2. Patipan Tareram
-	3. Chanatep Sila-ars
+1. Worraphong Chenvigyakit 
+2. Patipan Tareram
+3. Chanatep Sila-ars
 
 ![automatic answer checker](https://github.com/user-attachments/assets/66a0076c-47aa-4a64-a92a-55f53bf67a44)
 
